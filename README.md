@@ -1,6 +1,8 @@
 Slovenská podpora pre ElasticSearch
 ===================================
 
+English Bellow
+
 Autorské práva
 --------------
 
@@ -119,3 +121,31 @@ Odkazy
 * [Projekt Hunspell-sk](https://github.com/essential-data/hunspell-sk) od Essential Data, z ktorého používame slovník.
 * [Docker Hub stránka tohto projektu](https://registry.hub.docker.com/r/essentialdata/elasticsearch-sk)
 * [Github tohto projektu](https://github.com/essential-data/elasticsearch-sk)
+
+
+
+(Slovak support for ElasticSearch)
+===================================
+
+Copyright
+---------
+Copyright (c) 2015 Essential Data, s.r.o.
+
+This work may be used in accordance with the text of the following licenses:
+
+* GNU Affero General Public License, version 3
+* Creative Commons Attribution-ShareAlike 4.0 International
+* GNU Free Documentation License 1.3
+
+See the LICENSE file for more information. 
+
+*Warning!* These dictionaries are published under a different license than the dictionaries from the en-spell project!
+
+Translated with www.DeepL.com/Translator (free version)
+
+Interested in working with language? Work for us!
+----------------------------------------------
+
+Essential Data works with language, with data, and on interesting projects. Check out
+[current open positions](http://www.essential-data.sk/pracujte-pre-nas/) and work in a great
+team full of smart people.
